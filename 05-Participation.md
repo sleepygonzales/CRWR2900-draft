@@ -39,6 +39,4 @@ questions as they apply to you.
 
 ## Activities
 
-We will normally meet outside, at a local park. The complete listing of sites and dates is on the [course website](https://crwr1240.netlify.com/).
-
-
+We will normally meet outside, at a local park. The complete listing of sites and dates is on the [course website](https://crwr2900.netlify.com/).
